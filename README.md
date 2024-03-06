@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hey there! 👋 I'm Rayyan Shaheer, a CS freshman at FAST NUCES , passionate about coding and AI, exploring their intersection to solve real-world problems.
 
-
 - 📚 Currently studying Computer Science at FAST NUCES.
 - 💻 Learning and practicing coding in C++ and HTML.
 - 🤖 Exploring the basics of AI and its applications.
